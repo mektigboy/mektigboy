@@ -1,3 +1,3 @@
-### I'm mektigboy
+### Mektigboy
 
-[![Mektigboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mektigboy)](https://github.com/anuraghazra/github-readme-stats)
+![Mektigboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mektigboy&count_private=true)
